@@ -5,7 +5,7 @@ import {personal,url} from '../info';
 
 import 'antd/dist/antd.css';
 import {Person} from './Person';
-import {sumNumbers, reduceNumber} from './helpers';
+import {sumNumbers, reduceNumber} from '../helpers';
 
 const styles = {
 	width: '1200px',

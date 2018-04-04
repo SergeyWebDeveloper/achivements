@@ -17,8 +17,8 @@ export const Person = ({name, allTime, adaptiveRedesign, redesign, adaptive,edit
 				<p><strong>Всего</strong>: {allTime}ч.</p>
 				<p><strong>Адаптивные редизайны</strong>: {adaptiveRedesign}ч.</p>
 				<p><strong>Редизайны</strong>: {redesign}ч.</p>
-				<p><strong>Адаптивы</strong>: {adaptive}</p>
-				<p><strong>Правки/доработки</strong>: {edit}</p>
+				<p><strong>Адаптивы</strong>: {adaptive}ч.</p>
+				<p><strong>Правки/доработки</strong>: {edit}ч.</p>
 			</Card>
 		</Col>
 	)
